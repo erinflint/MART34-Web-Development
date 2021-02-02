@@ -7,4 +7,6 @@ Three things I have learned thus far:
 
 [The Onion](https://www.theonion.com/)
 
-![screenshot Feb 1st](screenshot 2/1/21.png)
+[Responses.txt](https://github.com/erinflint/MART34-Web-Development/blob/2731dfa0f4662bffca69c9e90d712feabdf7ccc9/assignment-03/responses.txt)
+
+![screenshot Feb 1st](https://github.com/erinflint/MART34-Web-Development/blob/2731dfa0f4662bffca69c9e90d712feabdf7ccc9/assignment-03/images/screenshot%202:1:21.png)
