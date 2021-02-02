@@ -6,4 +6,5 @@ Three things I have learned thus far:
 3. What a cookie actually is.
 
 [The Onion](https://www.theonion.com/)
-![screenshot Feb 1st](Screen Shot 2021-02-01 at 4.49.15 PM.png)
+
+![screenshot Feb 1st](screenshot 2/1/21.png)
