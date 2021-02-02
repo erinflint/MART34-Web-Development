@@ -1,0 +1,4 @@
+Three of my favorite websites that I like to visit are theonion.com, dollskill.com (I have a shopping problem), and guggenheim.org.
+The DNS is a collection of names that are associated with numbers, aka IP addresses.
+Cookies identify your computer when you are using a network.
+The three essential parts of a URL are the protocol, domain name, and path.
