@@ -1,0 +1,3 @@
+I chose to use the Wayback Machine to take a look at what thrashermagazine.com used to look like. It took me to a page from 2011 and I was actually quite impressed with the site. It basically looked like a myspace page. I had hoped to see the site from an earlier date but it was still pretty cool!
+
+This week was a nice refresher for me. I had learned how to embed images and links in a previous class and that knowledge had since slipped my mind. This week I was able to re-learn (and hopefully remember) how to embed. I had to remind myself multiple times that an image path or link from my personal computer wouldn't be able to load on someone else's so I had to redo some links here and there.
