@@ -1,0 +1,6 @@
+A document can only have one head and one body element. The head element relays info about the document to the browser/processor. The body contains the data that is processed by the browser and displayed on a visitor's computer.
+
+Structural markup focuses on the info about the structure of a document. Headings, paragraphs, breaks, and lists all fall under the structural markup category.
+Semantic markup is used to reinforce the meaning of a document. Italics, bold, underlining, quotations (etc) fall under this category.
+
+My work cycle for this assignment was pretty in-depth compared to previous assignments. It took a lot more focus and note taking than last week's assignment. However, I am very proud of how I did with this week's work! I had some issues in the beginning (too tired, trying to hurriedly understand info from this week) but when I started over with a clean slate (and rested brain) I was able to pick up on a lot that I had missed in my first go-round. I feel like I finally have an understanding of what is going on when it comes to code! I also think that I have found my specific learning style with coding and online learning. I was able to absorb a lot more this week from writing important points down instead of just making mental notes as to where to find said points on the course site. 
