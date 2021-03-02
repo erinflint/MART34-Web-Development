@@ -1,0 +1,5 @@
+1. The forms that I am most familiar with are on pages for online shopping. Specifically the "sort by" forms that allow you to select "price: lowest to highest, price: highest to lowest" etc etc. These are awesome because they organize the products in terms of price which is (in all honesty) how I always shop. The cheaper the better.
+2. Text input: creates a text box in which the user can type such as the "leave a comment" section at the bottom of an opinion news piece.
+Selection input: allows the user to select options via selection dots, check boxes, and drop-down boxes. These are common in online food ordering websites where optional ingredients are available.
+Button input: interactive, clickable buttons such as subscribe buttons.
+3. My work cycle this week was pretty easy. Since I finally got a hang of things last week this week was much easier and less stressful for me. Although it's not the most aesthetically pleasing site, I am proud of what I produced. I even added a little surprise when the subscribe button is pushed.
