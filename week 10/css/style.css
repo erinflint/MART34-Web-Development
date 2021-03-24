@@ -1,0 +1,33 @@
+body {
+  background-color: #e0d169;
+  font-family: 'wonderbar', serif;
+}
+div {
+  padding: 10%;
+  background-color: #e0d169;
+  color: purple;
+}
+p {
+  color: #102e16;
+  font-family: "Arial", serif;
+}
+h1 {
+  color: #772953;
+  text-align: center!important;
+}
+section {
+  /*contains photos and discription*/
+  width: 400px;
+  background-color: white;
+  border-radius: 45px;
+  padding: 20px;
+  padding-bottom: 25px;
+  margin: auto;
+  margin-bottom: -150px;
+}
+h2 {
+  font-size: 8pt;
+  text-align: center!important;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: 'wonderbar', serif;
+}
