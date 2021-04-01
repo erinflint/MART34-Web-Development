@@ -1,0 +1,64 @@
+body {
+  background-color: gray;
+
+
+}
+div {
+  padding: 10%;
+  background-color: white;
+  color: black;
+}
+ p::first-line {
+  color: red;
+  font-family: 'Georgia', 'Times', serif;
+}
+.change-01 {
+  text-align: center;
+  color:black;
+  font-family: 'Georgia', 'Times', serif;
+
+}
+h1 {
+  color: #452930;
+  font-family: monospace;
+  text-align: center!important;
+}
+section {
+  /*bubble with paragraph*/
+  width: 400px;
+  background-color: white;
+  border-radius: 45px;
+  padding: 20px;
+  padding-bottom: 25px;
+  margin: auto;
+  margin-bottom: -150px;
+}
+h2 {
+  font-size: 10pt;
+  text-align: center!important;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: 'Georgia', 'Times', serif;
+}
+h3{
+  font-size: 8pt;
+  text-align: center!important;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: 'Georgia', 'Times', serif;
+}
+h4{
+  font-size: 12pt;
+  text-align: center;
+  font-family: monospace;
+}
+a:link {
+  color: purple;
+  text-decoration: none;
+}
+a:visited {
+  color:gray;
+  text-decoration: none;
+}
+a:hover {
+  color: blue;
+  font-style: italic;
+}
