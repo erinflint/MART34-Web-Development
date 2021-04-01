@@ -1,0 +1,12 @@
+1. System font: already installed on a computer
+Web font: custom fonts hosted on a server
+Web-safe font: available on both windows and mac
+
+2. Fallback fonts are important because they serve as a placeholder for other fonts that may take a while to load.
+They can help your page look presentable even while loading (if you choose your fallbacks correctly).
+
+3. The only real issue I had this week was with pseudo-elements. I attempted to
+make my first line of my excerpt a different color and couldn't understand what
+I was doing wrong. I didn't manage to fix it because I got to the point mentally
+where I was about to throw my computer out a window after staring at it for so
+long. 
