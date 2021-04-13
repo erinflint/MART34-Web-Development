@@ -31,7 +31,7 @@ body
 .about
 {
   text-align: center;
-  font-size: 10pt;
+  font-size: 12pt;
   color: #2e2e2c;
   font-family: "klik", arial;
 }
@@ -106,7 +106,7 @@ section {
   border-radius: 45px;
   border: 1px solid #2e2e2c;
   padding: 20px;
-  padding-bottom: 20px;
+  padding-bottom: 15px;
   margin: auto;
   margin-bottom: -150px;
 }
