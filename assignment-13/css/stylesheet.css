@@ -1,0 +1,132 @@
+body
+{
+  background-color: #faebb9;
+}
+.menu
+{
+  font-size: 10pt;
+  color: #2e2e2c;
+  font-family: "lemon milk", arial;
+}
+.page-heading
+{
+  text-align: center;
+  font-size: 25pt;
+  color: #2e2e2c;
+  font-family: "lemon milk", arial;
+}
+.questions {
+    text-align: center;
+    font-size: 15pt;
+    color: #2e2e2c;
+    font-family: "lemon milk", arial;
+}
+.page-content
+{
+  text-align: center;
+  font-size: 15pt;
+  color: #2e2e2c;
+  font-family: "lemon milk", arial;
+}
+.about
+{
+  text-align: center;
+  font-size: 10pt;
+  color: #2e2e2c;
+  font-family: "klik", arial;
+}
+.dropbtn {
+  background-color: purple;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  font-family: "lemon milk", arial;
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+  margin: 0;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+.form {
+  position: relative;
+  display: inline-block;
+  margin: 0;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  font-size: 12pt;
+  font-family: "lemon milk", arial;
+}
+/* Links inside the dropdown */
+.dropdown-content
+a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  font-family: "lemon milk", arial;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content
+a:hover {
+  background-color: #ddd;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover
+.dropdown-content {
+  display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover
+.dropbtn {
+  background-color: #3e8e41;
+}
+section {
+  /*bubble with paragraph*/
+  position: relative;
+  width: 400px;
+  background-color: #EEE5FD;
+  border-radius: 45px;
+  border: 1px solid #2e2e2c;
+  padding: 20px;
+  padding-bottom: 20px;
+  margin: auto;
+  margin-bottom: -150px;
+}
+.img
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 8px;
+}
+.checkbox
+{
+  position: relative;
+  display: inline-block;
+  margin: 0;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, 100%);
+  font-size: 10pt;
+  font-family: "lemon milk", arial;
+}
