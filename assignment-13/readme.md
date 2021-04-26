@@ -1,17 +1,11 @@
-1. My imaginary client was myself. I have a little
-jewelry making side gig that needed a site so voila!
-I knew that I wanted simple yet colorful aesthetics
-in my site so that's what I attempted to do.
-
-2. It is important to consider mobile-first designs
-because a majority of people access the internet
-on their smartphones nowadays. If your site isn't pretty
-on a phone/tablet/smaller screen your client won't be
-happy!
-
-3. I had some issues with my photos not lining up correctly
-but I checked out w3 schools and got it solved! Also, not
-a challenge, but I decided to put my drop downs and some
-of my checkbox selections on different pages than those
-in the assignment. They just worked better with my overall
-goal with this site.
+1. I chose to use bootstrap. I had a lot of issues
+understanding this week for some reason and I found
+the most helpful resources in relation to bootstrap.
+2. I used a CDN simply because it made more sense to me. It clicked in my brain far more successfully than using a local file.
+3. HTML5 allows for developers to build more diverse
+sites and apps for the ever-evolving world of tech.
+4. This week was TOUGH. For some reason I couldn't wrap my head around external libraries. I think I
+did everything correctly, but honestly I still feel
+a little fuzzy about it. I began to treat it as if
+it were a stylesheet I wrote and that helped it
+click in my head. 

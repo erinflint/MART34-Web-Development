@@ -1,0 +1,18 @@
+var c = document.getElementById("myCanvas");
+var ctx = c.getContext("2d");
+ctx.beginPath();
+ctx.arc(95, 50, 40, 0, 2 * Math.PI);
+ctx.arc(45, 30, 60, 0, 4 * Math.PI);
+ctx.arc(95, 80, 40, 0, 2 * Math.PI);
+ctx.arc(95, 50, 70, 0, 3 * Math.PI);
+ctx.arc(305, 200, 40, 0, 2 * Math.PI);
+ctx.arc(150, 100, 20, 0, 2 * Math.PI);
+ctx.arc(150, 150, 80, 0, 5 * Math.PI);
+ctx.arc(405, 100, 70, 0, 2 * Math.PI);
+ctx.arc(255, 45, 30, 0, 2 * Math.PI);
+ctx.arc(285, 100, 60, 0, 5 * Math.PI);
+ctx.arc(100, 200, 40, 0, 2 * Math.PI);
+ctx.arc(150, 200, 70, 0, 2 * Math.PI);
+ctx.arc(15, 150, 50, 0, 2 * Math.PI);
+ctx.arc(15, 200, 20, 0, 2 * Math.PI);
+ctx.stroke();
