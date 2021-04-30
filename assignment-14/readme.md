@@ -1,17 +1,7 @@
-1. My imaginary client was myself. I have a little
-jewelry making side gig that needed a site so voila!
-I knew that I wanted simple yet colorful aesthetics
-in my site so that's what I attempted to do.
-
-2. It is important to consider mobile-first designs
-because a majority of people access the internet
-on their smartphones nowadays. If your site isn't pretty
-on a phone/tablet/smaller screen your client won't be
-happy!
-
-3. I had some issues with my photos not lining up correctly
-but I checked out w3 schools and got it solved! Also, not
-a challenge, but I decided to put my drop downs and some
-of my checkbox selections on different pages than those
-in the assignment. They just worked better with my overall
-goal with this site.
+1. I learned so much during this class. I never thought I'd be able to make myself a
+website but here I am! I definitely have a
+ways to go but I'm proud of all that I learned
+and retained. I plan on doctoring up my site over the summer as to not lose what I have learned.  
+2. The fonts lesson was really cool to me.
+I never really thought about just how important complimentary fonts are in design but they truly make or break a site.
+3. I had my fair share of challenges during this course. I managed to overcome them by taking my time and doing a fair amount of outside research.
